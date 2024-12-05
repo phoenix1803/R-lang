@@ -1,0 +1,6 @@
+"Name"	"Age"	"Salary"
+"Bhumika"	21	40000
+"Lakho"	22	50000
+"Anupriya"	23	60000
+"Ishwarya"	24	45000
+"Prakhar"	20	48000
